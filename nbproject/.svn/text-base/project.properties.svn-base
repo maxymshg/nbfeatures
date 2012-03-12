@@ -1,0 +1,9 @@
+javac.source=1.6
+javac.compilerargs=-Xlint -Xlint:-serial
+javadoc.arch=${basedir}/arch.xml
+keystore=nbproject/private/keystore
+license.file=cddl.txt
+nbm.homepage=http://java.net/projects/nbfeatures
+nbm.module.author=Maxim Shekhovets
+nbm_alias=myself
+spec.version.base=0

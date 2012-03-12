@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+OpenIDE-Module: org.smg.oneclickplugin
+OpenIDE-Module-Implementation-Version: 1
+OpenIDE-Module-Layer: org/smg/oneclickplugin/layer.xml
+OpenIDE-Module-Localizing-Bundle: org/smg/oneclickplugin/Bundle.properties

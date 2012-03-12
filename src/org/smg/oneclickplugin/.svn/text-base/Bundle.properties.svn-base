@@ -1,0 +1,6 @@
+CTL_CloseAllProjects=Close All Projects
+OpenIDE-Module-Display-Category=Editing, Tools
+OpenIDE-Module-Long-Description=\
+    We plan to implement some features that were missed in Netbeans platform\n\nThis version can:\n- close all your opened projects in one click;
+OpenIDE-Module-Name=nbfeatures
+OpenIDE-Module-Short-Description=Features for Netbeans
