@@ -1,0 +1,4 @@
+This project contains Netbeans plugin source code.
+This plugin brings "Close All" functionality to this IDE.
+
+This plugin was tested with Netbeans 7.0 (see http://plugins.netbeans.org/plugin/37135/close-all-project), but should work with other 7.x versions.
